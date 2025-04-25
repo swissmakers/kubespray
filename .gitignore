@@ -28,6 +28,8 @@ plugins/mitogen
 inventory/*
 !inventory/local
 !inventory/sample
+!inventory/prod
+inventory/prod/inventory.ini
 inventory/*/artifacts/
 
 # Byte-compiled / optimized / DLL files
